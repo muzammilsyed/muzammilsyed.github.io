@@ -2,6 +2,7 @@
     "short_name":"AskGod",
     "name":"AskGod",
     "start_url":"/index.html",
+    "scope":"https://muzammilsyed.github.io/",
     "display":"standalone",
     "theme_color":"red",
     "background_color":"yellow",
