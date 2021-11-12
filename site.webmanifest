@@ -1,7 +1,7 @@
 {
     "short_name":"AskGod",
     "name":"AskGod",
-    "start_url":"/index.html",
+    "start_url":"https://muzammilsyed.github.io/",
     "scope":"https://muzammilsyed.github.io/",
     "display":"standalone",
     "theme_color":"red",
